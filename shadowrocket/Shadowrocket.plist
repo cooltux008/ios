@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-                        <string>https://github.com/liujun1990/ios/shadowrocket/raw/master/Shadowrocket-2.1.10-PP.ipa</string>
+                        <string>https://raw.githubusercontent.com/liujun1990/ios/master/shadowrocket/Shadowrocket-2.1.10-PP.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
