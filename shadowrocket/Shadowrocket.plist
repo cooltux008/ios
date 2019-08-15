@@ -17,7 +17,7 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.electrateam.chimera</string>
+					<string>com.shadowrocket.github</string>
 					<key>bundle-version</key>
 					<string>2.1.10</string>
 					<key>kind</key> 
